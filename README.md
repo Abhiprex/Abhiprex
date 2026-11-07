@@ -37,13 +37,11 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 🐶 The Puppy's Room
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/puppy-room.svg" width="100%" alt="The Puppy's Room" />
+</p>
 
-![The Puppy's Room](./puppy-room.svg)
-
-*Resident repo companion wandering between the bed, bowl, and toys.*
-
-</div>
+<p align="center"><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
 
 ---
 
