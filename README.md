@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github.com/Abhiprex.png" width="120" style="border-radius: 50%; margin-bottom: 12px;" />
+  <img src="https://github.com/Abhiprex.png" width="110" style="border-radius: 50%;" />
   
   # Abhijeet Patil (Abhiprex)
-  <p>🚀 <i>Embedded Systems & Automation Engineer</i> 🚀</p>
+  <p><b>Embedded Systems & Automation Engineer</b></p>
 
   <p>
-    <a href="https://github.com/Abhiprex"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Abhiprex"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 </div>
 
 ### 🧬 About Me
-Low-level developer focused on hardware interfacing, real-time architectures (RTOS), and systems-level tooling. Currently building firmware, automotive data analysis scripts, and productivity utility tools.
+Low-level developer focused on hardware interfacing, real-time operating systems (RTOS), and systems-level tooling. Currently building firmware, automotive telemetry solutions, and workflow automation utilities.
 
 ---
 
