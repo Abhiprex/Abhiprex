@@ -37,10 +37,11 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 🐶 The Puppy's Room
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/cozy-room.gif" width="700" alt="Puppy Cozy Living Room" />
-  <p><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
-</div>
+<p align="center">
+  <img src="puppy-room.svg" width="100%" alt="The Puppy's Room" />
+</p>
+
+<p align="center"><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
 
 ---
 
