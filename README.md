@@ -35,14 +35,12 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ---
 
-### 🐶 The Puppy's Room
+### 🐶 Repo Pup at Play
 
 <div align="center">
-
-![The Puppy's Room](puppy-room.svg)
-
-*Resident repo companion wandering between the bed, bowl, and toys.*
-
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/dog-playing.gif" width="300" alt="Puppy playing" />
+  <br/>
+  <p><i>Guarding the commits and waiting for someone to throw the ball. 🎾</i></p>
 </div>
 
 ---
