@@ -8,10 +8,10 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 💻 Languages & Tools
 
-* **Languages:** C, C++, Python, Shell
-* **Tools & OS:** Git, Linux, VS Code, GCC
-* **Hardware & Systems:** ESP32, AVR/Arduino, FreeRTOS
-* **AI & Experiments:** Prompt Crafting, LLM Automation, OpenCV
+- **Languages:** C, C++, Python, Shell
+- **Tools & OS:** Git, Linux, VS Code, GCC
+- **Hardware & Systems:** ESP32, AVR/Arduino, FreeRTOS
+- **AI & Experiments:** Prompt Crafting, LLM Automation, OpenCV
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
@@ -27,13 +27,23 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 📂 Projects & Experiments
 
-* 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – An automated file sorting and directory cleanup tool written in Python because my desktop is a mess.
-* 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics setup with ESP32, FreeRTOS, and MQTT to analyze driving habits via IMU.
-* 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot navigating mazes using Wall-Following and Flood-Fill algorithms.
-* 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset.
-* 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART.
+- 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – An automated file sorting and directory cleanup tool written in Python because my desktop is a mess.
+- 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics setup with ESP32, FreeRTOS, and MQTT to analyze driving habits via IMU.
+- 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot navigating mazes using Wall-Following and Flood-Fill algorithms.
+- 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset.
+- 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART.
+
+---
+
+### 🐶 The Puppy's Room
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/cozy-room.gif" width="700" alt="Puppy Cozy Living Room" />
+  <p><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
+</div>
 
 ---
 
 ### 📬 Say Hi
 Always down to chat about interesting code, random automation ideas, wild AI prompting experiments, or cool side projects.
+---
