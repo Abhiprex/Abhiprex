@@ -35,11 +35,11 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ---
 
-### 🐶 Repo Pup at Play
+### 🐶 The Puppy's Room
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/developer.gif" width="160" alt="Repo companion at work" />
-  <p><i>Guarding the commits and waiting for someone to throw the ball. 🎾</i></p>
+  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/puppy-room.svg?v=1" width="100%" alt="The Puppy's Room" />
+  <p><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
 </div>
 
 ---
