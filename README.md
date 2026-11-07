@@ -34,11 +34,10 @@ Jack of some trades, master of automating things that would take five minutes to
 - 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART.
 
 ---
-
 ### 🐶 Repo Companion
 
 <div align="center">
-  <img src="https://i.giphy.com/media/pA8t3E7IGo2ZVcdZep/giphy.gif" width="110" alt="Pixel Pet" />
+  <img src="PASTE_YOUR_GENERATED_USER_ATTACHMENTS_LINK_HERE" width="110" alt="Pixel Pet" />
   <p><i>Stepping through commits and chasing bugs. 🐾</i></p>
 </div>
 
