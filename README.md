@@ -38,8 +38,7 @@ Jack of some trades, master of automating things that would take five minutes to
 ### 🐶 Repo Pup at Play
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/dog-playing.gif" width="300" alt="Puppy playing" />
-  <br/>
+  <img src="https://raw.githubusercontent.com/kyechan99/capsule-render/master/assets/developer.gif" width="160" alt="Repo companion at work" />
   <p><i>Guarding the commits and waiting for someone to throw the ball. 🎾</i></p>
 </div>
 
