@@ -33,13 +33,12 @@ Jack of some trades, master of automating things that would take five minutes to
 - 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset.
 - 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART.
 
----
-### 🐶 Repo Companion
+---### 🐶 Repo Companion
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/cat-walking.gif" width="70" alt="Pixel pet walking" />
+  <img src="https://media.giphy.com/media/pA8t3E7IGo2ZVcdZep/giphy.gif" width="90" alt="Pixel Pet" />
   <p><i>Stepping through commits and chasing bugs. 🐾</i></p>
-</div>
+</div>>
 
 ---
 
