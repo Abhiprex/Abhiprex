@@ -37,14 +37,15 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 🐶 The Puppy's Room
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/puppy-room.svg" width="100%" alt="The Puppy's Room" />
-</p>
+<div align="center">
 
-<p align="center"><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
+![The Puppy's Room](puppy-room.svg)
+
+*Resident repo companion wandering between the bed, bowl, and toys.*
+
+</div>
 
 ---
 
 ### 📬 Say Hi
 Always down to chat about interesting code, random automation ideas, wild AI prompting experiments, or cool side projects.
----
