@@ -35,17 +35,6 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ---
 
-### 🐾 Repo Companions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/PurpDrag.gif" width="90" alt="Purple Dragon" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/Pet.gif" width="90" alt="Pixel Pet" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Abhiprex/Abhiprex/main/RedDrag.gif" width="90" alt="Red Dragon" />
-  <p><i>Guarding commits, chasing bugs, and keeping the repo lively. 🔥🐾🔥</i></p>
-</div>
-
 ---
 
 ### 📬 Say Hi
