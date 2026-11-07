@@ -27,11 +27,11 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 📂 Projects & Experiments
 
-* 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – An automated file sorting and directory cleanup tool written in Python because my desktop is a mess[cite: 1].
-* 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics setup with ESP32, FreeRTOS, and MQTT to analyze driving habits via IMU[cite: 1].
-* 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot navigating mazes using Wall-Following and Flood-Fill algorithms[cite: 1].
-* 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset[cite: 1].
-* 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART[cite: 1].
+* 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – An automated file sorting and directory cleanup tool written in Python because my desktop is a mess.
+* 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics setup with ESP32, FreeRTOS, and MQTT to analyze driving habits via IMU.
+* 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot navigating mazes using Wall-Following and Flood-Fill algorithms.
+* 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset.
+* 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART.
 
 ---
 
