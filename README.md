@@ -1,55 +1,39 @@
-# Abhijeet Patil (Abhiprex)
-### Embedded Systems & Automation Engineer
+# Abhijeet Patil 👋
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Abhiprex)
+I write code, build random tools to solve problems I probably created myself, and occasionally tinker with hardware until it works (or starts smoking). 
 
----
-
-### 🧬 About Me
-Low-level developer focused on hardware interfacing, real-time operating systems (RTOS), and systems-level tooling. Currently building firmware, automotive telemetry solutions, and workflow automation utilities.
+Jack of some trades, master of automating things that would take five minutes to do manually—often by over-prompting AI models until they write the boilerplate for me.
 
 ---
 
-### 🛠️ Core Stack
+### 💻 Languages & Tools
 
 * **Languages:** C, C++, Python, Shell
-* **Environments:** FreeRTOS, ESP-IDF, GCC, AVR, Git, Linux
-* **Protocols:** MQTT, UART, SPI, I2C, OBD-II (ELM327), Bluetooth
+* **Tools & OS:** Git, Linux, VS Code, GCC
+* **Hardware & Systems:** ESP32, AVR/Arduino, FreeRTOS
+* **AI & Experiments:** Prompt Crafting, LLM Automation, OpenCV
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008080?style=flat-square&logo=freertos&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GCC](https://img.shields.io/badge/GCC-FC6D26?style=flat-square&logo=gnu&logoColor=white)
-
----
-
-### 📈 Activity & Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abhiprex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  
-  <br/><br/>
-
-  <img src="https://img.shields.io/github/stars/Abhiprex?style=flat-square&logo=github&color=38bdf8&label=Total%20Stars" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-48%20in%202026-a855f7?style=flat-square&logo=git" alt="Contributions" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Abhiprex?style=flat-square&logo=github&color=3b82f6&label=Followers" alt="Followers" />
-</div>
----
-
-### 📦 Key Projects
-
-- 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot implementing Wall-Following and Flood-Fill optimization algorithms.
-- 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics firmware utilizing ESP32, FreeRTOS, MPU6050, and MQTT messaging.
-- 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – Automated file sorting and batch directory cleanup utilities in Python.
-- 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless notice board using ATmega328P, HC-05 Bluetooth, and a P10 LED matrix.
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Prompting-10A37F?style=flat-square&logo=openai&logoColor=white" />
+</p>
 
 ---
 
-### 📬 Let's Connect!
-Open to collaborating on firmware optimization, edge telemetry, and systems automation.
+### 📂 Projects & Experiments
+
+* 📁 **[Organizer](https://github.com/Abhiprex/Organizer)** – An automated file sorting and directory cleanup tool written in Python because my desktop is a mess[cite: 1].
+* 🚗 **[Driver-Behaviour-Analysis](https://github.com/Abhiprex/Driver-Behaviour-Analysis)** – Edge-telematics setup with ESP32, FreeRTOS, and MQTT to analyze driving habits via IMU[cite: 1].
+* 🕹️ **[Autonomous-maze-solver](https://github.com/Abhiprex/Autonomous-maze-solver)** – Micro-mouse robot navigating mazes using Wall-Following and Flood-Fill algorithms[cite: 1].
+* 👁️ **[Object-detection-system](https://github.com/Abhiprex/Object-detection-system)** – Real-time object detection using OpenCV and SSD MobileNet V3 trained on the COCO dataset[cite: 1].
+* 📡 **[Wireless-notice-board](https://github.com/Abhiprex/Wireless-notice-board)** – Wireless LED display board using ATmega328P and HC-05 Bluetooth over UART[cite: 1].
+
+---
+
+### 📬 Say Hi
+Always down to chat about interesting code, random automation ideas, wild AI prompting experiments, or cool side projects.
