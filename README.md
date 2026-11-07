@@ -37,11 +37,13 @@ Jack of some trades, master of automating things that would take five minutes to
 
 ### 🐶 The Puppy's Room
 
-<p align="center">
-  <img src="puppy-room.svg" width="100%" alt="The Puppy's Room" />
-</p>
+<div align="center">
 
-<p align="center"><i>Resident repo companion wandering between the bed, bowl, and toys.</i></p>
+![The Puppy's Room](./puppy-room.svg)
+
+*Resident repo companion wandering between the bed, bowl, and toys.*
+
+</div>
 
 ---
 
