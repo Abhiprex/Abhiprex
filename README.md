@@ -29,11 +29,10 @@ Low-level developer focused on hardware interfacing, real-time operating systems
 
 ### 📈 Activity & Stats
 
-<p align="center">
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Abhiprex&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhiprex&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="48%" />
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhiprex&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" width="48%" />
+</div>
 ---
 
 ### 📦 Key Projects
